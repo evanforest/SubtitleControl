@@ -16,7 +16,7 @@ allprojects {
 2.添加依赖
 ```
 dependencies {
-    implementation 'com.github.evanforest:SubtitleControl:1.0.0'
+	implementation 'com.github.evanforest:SubtitleControl:1.0.0'
 }
 ```
 
