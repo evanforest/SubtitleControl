@@ -1,5 +1,5 @@
 # SubtitleControl
-字幕控制工具
+字幕文件播放控制工具
 
 [![Release](https://jitpack.io/v/evanforest/SubtitleControl.svg)](https://jitpack.io/#evanforest/SubtitleControl)
 
